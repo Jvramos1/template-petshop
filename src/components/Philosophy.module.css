@@ -1,0 +1,20 @@
+.philosophy {
+  padding: var(--spacing-xl) 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: var(--color-surface);
+}
+
+.text {
+  font-size: clamp(2rem, 5vw, 4rem);
+  max-width: 1000px;
+  line-height: 1.2;
+}
+
+.highlight {
+  color: var(--color-accent);
+  font-style: italic;
+  font-family: var(--font-display);
+}
