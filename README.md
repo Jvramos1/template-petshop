@@ -1,6 +1,6 @@
 # Pethaus — Estúdio de Bem-Estar Pet
 
-![Pethaus Hero Image](public/hero-dog.png)
+![Pethaus Hero Image](public/preview.png)
 
 Uma landing page premium, sofisticada e minimalista para um estúdio de estética e bem-estar pet. O projeto foi desenvolvido com foco em **experiência do usuário (UX)**, **animações orgânicas** e **arquitetura de código limpa**.
 
