@@ -48,6 +48,7 @@ function App() {
         <Hero heroImageY={heroImageY} />
         <Philosophy />
         <Services servicesImageScale={servicesImageScale} />
+      </main>
 
       <Footer />
     </div>
