@@ -1,3 +1,4 @@
+// teste verificação
 // teste
 import { useScroll, useTransform } from 'framer-motion';
 import { useSmoothScroll } from './hooks/useSmoothScroll';
