@@ -15,6 +15,7 @@
 import { useScroll, useTransform } from 'framer-motion';
 import { useSmoothScroll } from './hooks/useSmoothScroll';
 import { useScrollState } from './hooks/useScrollState';
+import './typeTest.ts';
 
 // Components
 import Navbar from './components/Navbar';

@@ -1,4 +1,4 @@
-// Arquivo de teste: erro de tipo TypeScript proposital
-const quantidade: number = "isto deveria ser um número";
+// Arquivo de teste: erro de sintaxe proposital para quebrar o build
+const quantidade: number = ;
 
 export default quantidade;
